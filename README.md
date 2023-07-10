@@ -16,7 +16,7 @@ pkg install git
 
 rm -rf DUMP
 
-gitclone https://github.com/MASTER-404/DUMP
+git clone https://github.com/MASTER-404/DUMP
 
 cd DUMP
 
