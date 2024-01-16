@@ -20,4 +20,4 @@ git clone https://github.com/MASTER-404/DUMP
 
 cd DUMP
 
-python Dump.py
+python dump.py
